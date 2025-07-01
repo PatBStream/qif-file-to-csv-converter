@@ -1,0 +1,11 @@
+*.csv
+*.qif
+*.txt
+*.out
+*.log
+*.json
+*.xml
+*.yaml
+*.yml
+*.html
+*.pdf
